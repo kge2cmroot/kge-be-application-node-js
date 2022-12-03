@@ -1,12 +1,12 @@
 const axios = require("axios")
 const wiki = require('wikijs').default;
+const {LinkPredictionTaskServiceBaseURL} = require("../config.json")
 
-
-const colabRestServer = "http://cf9d-34-125-144-113.ngrok.io"
+// const LinkPredictionTaskServiceBaseURL = "http://cf9d-34-125-144-113.ngrok.io"
 
 const linkCompletitionTask = (head, relation, tail, res) => {
 
-    axios.post(`${colabRestServer}/predictions`, {
+    axios.post(`${LinkPredictionTaskServiceBaseURL}/predictions`, {
         head, relation, tail
     })
         .then(v => {
