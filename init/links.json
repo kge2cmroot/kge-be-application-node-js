@@ -1,0 +1,632 @@
+[
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is opposite of"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "has sibilings"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "has synonym"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is similar to"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is same as"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is independent of"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is equal to"
+    },
+    {
+        "direction": "0",
+        "type": "symmetric",
+        "value": "is opposed to"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "has part"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "composed of"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "has example"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "contains"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "includes"
+    },
+    {
+        "direction": "1",
+        "type": "inclusion",
+        "value": "has instance"
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is part of"
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is part in "
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is example of"
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is contained in"
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is included in"
+    },
+    {
+        "direction": "-1",
+        "type": "inclusion",
+        "value": "is instance of"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has characteristic"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has property"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has kind"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "describes"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "denoted"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has advantage"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has function"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has attribute"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has type"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "defines"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "models"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "implies"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has disadvantages"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "has size"
+    },
+    {
+        "direction": "1",
+        "type": "characteristic",
+        "value": "is higher than"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is characteristic of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is property of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is kind of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is described by"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is denoted by"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is advantage of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is function of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is attribute of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is type of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is defined by"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is modeled by"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is implied by"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is disadvantage of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is size of"
+    },
+    {
+        "direction": "-1",
+        "type": "characteristic",
+        "value": "is_lower_than"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "causes"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "solves"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "decreases"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "destroys"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "influences"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "enables"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "acts on"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "converted from"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "employs"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "generates"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "originates from"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "requires"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "sends to"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "uses"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "exploits"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "increases"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "impedes"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "determines"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "absorbs"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "consumes"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "designs"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "evolves into"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "modifies"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "provides"
+    },
+    {
+        "direction": "1",
+        "type": "action",
+        "value": "regulates"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is caused by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is solution for"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is decreased by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is destroyed by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is influence by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is enabled by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is acted on by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "converted to"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is employed by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is generated by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is origin of"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is required by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "receives from"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is used by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is exploited by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is increased by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is impeded by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is determined by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is absorbed by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is consumed by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is designed by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is evolved from"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is modified by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is provided by"
+    },
+    {
+        "direction": "-1",
+        "type": "action",
+        "value": "is regulated by"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has object"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has result"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has process"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has input"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "depends on"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has output"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "has subprocess"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "organizes"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "proposes"
+    },
+    {
+        "direction": "1",
+        "type": "process",
+        "value": "concludes"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is object of"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "result from"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is process in"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is input to"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "has dependent"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is output of"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is subprocess of "
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is organized by"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is proposed by"
+    },
+    {
+        "direction": "-1",
+        "type": "process",
+        "value": "is concluded by"
+    },
+    {
+        "direction": "1",
+        "type": "temporal",
+        "value": "has step"
+    },
+    {
+        "direction": "1",
+        "type": "temporal",
+        "value": "precedes"
+    },
+    {
+        "direction": "1",
+        "type": "temporal",
+        "value": "has stage"
+    },
+    {
+        "direction": "-1",
+        "type": "temporal",
+        "value": "is step in"
+    },
+    {
+        "direction": "-1",
+        "type": "temporal",
+        "value": "follows"
+    },
+    {
+        "direction": "-1",
+        "type": "temporal",
+        "value": "is stage in"
+    }
+]
